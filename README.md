@@ -128,7 +128,7 @@ The badge is now in bootloader mode and ready to flash.
 1. Go to **[esptool-js](https://espressif.github.io/esptool-js/)**.
 2. Set **Baudrate** to `115200` and click **Connect**.
 3. Select the serial port connected to your badge in the pop-up, then click **Connect**.
-4. Under **File**, click **Choose File** and select the appropriate `.bin` file.
+4. Under **File**, click **Choose File** and select the appropriate `app_xxx.bin` file.
 5. Set **Flash Address** to `0x10000`.
 6. Click **Program**, leaving everything else at its default.
 
