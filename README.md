@@ -6,6 +6,8 @@ Connect to other acolyte badges to grow your cult, find the glyphs of power scat
 
 The badge has a main quest, an unlockable side quest, and four unlockable modes.
 
+[![Join the Discord](https://img.shields.io/badge/Discord-Join_the_Cult-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eUE9ZC9fFf)
+
 ---
 
 ## Badge Types
@@ -137,6 +139,22 @@ Your unlocks, name, and progress all survive this.
 > **Warning:** this erases your badge progress.
 
 If you need to start from a clean slate, set **Flash Address** to `0x0` and flash `full_cult_v3.bin`. Once that completes, you can flash app files over the top of it at `0x10000` as above.
+
+---
+
+## Cultist Hacks
+
+Cultists who have contributed their own badge hacks.
+
+### [Cargo Cult](https://github.com/ray-goldman/cargo-cult) — *ray-goldman*
+
+A serial-first BLE role emulator for classic ESP32/WROOM boards. Emulates Acolyte, Glyph, Elder God, and Cthulhu roles so badge owners can keep playing and finish the story after the con. Tested on the Society of Shenanigans DEF CON 32 DEFMON badge. Optional OLED and button support, or run it headless over serial.
+
+### [Cargo Cult Multi-Adv](https://github.com/ray-goldman/cargo-cult-multiadv) — *ray-goldman*
+
+The ESP32-C3 companion to Cargo Cult, using concurrent BLE advertising to broadcast three simultaneous Acolyte identities — or three Séance peers, which the classic ESP32 build can't do.
+
+Built something of your own? Open an issue or drop it in the [Discord](https://discord.gg/eUE9ZC9fFf) and it'll get added here.
 
 ---
 
