@@ -6,7 +6,7 @@ Connect to other acolyte badges to grow your cult, find the glyphs of power scat
 
 The badge has a main quest, an unlockable side quest, and four unlockable modes.
 
-Post Def Con Online Challenges now available![![Online DC34 Cult of Cthulhu Challenges](https://img.shields.io/badge/Online_DC34_Cult_of_Cthulhu_Challenges-2E7D32?style=for-the-badge)](https://pfarrsidetech.com/cthulhu_challenges/)
+Post Def Con Online Challenges now available! [![Online DC34 Cult of Cthulhu Challenges](https://img.shields.io/badge/Online_DC34_Cult_of_Cthulhu_Challenges-2E7D32?style=for-the-badge)](https://pfarrsidetech.com/cthulhu_challenges/)
 
 [![Join the Discord](https://img.shields.io/badge/Discord-Join_the_Cult-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eUE9ZC9fFf)
 
